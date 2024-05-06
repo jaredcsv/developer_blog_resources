@@ -1,0 +1,21 @@
+Account Id,Account Name,Opportunity Name,OpportunityID,Stage,Amount,Description,Expected Revenue,Forecast Category,Lead Source,Probability,Type,Close Date
+001aj00000EQt0vAAD,Edge Communications,Project Phoenix,006aj0000022Q6MAAU,Proposal/Price Quote,30000,Upgrade of existing software system,35000,Pipeline,Partner Referral,60,Existing Customer - Upgrade,2024-04-25
+001aj00000EQt0wAAD,Burlington Textiles Corp of America,New Market Entry,006aj0000022Q6NAAU,Needs Analysis,50000,Research and development for new product line,80000,Best Case,Web,70,New Customer,2024-04-26
+001aj00000EQt0xAAD,Pyramid Construction Inc.,Service Renewal,006aj0000022Q6OAAU,Closed Won,15000,Renewal of annual service contract,15000,Commit,Phone Inquiry,100,Existing Customer - Upgrade,2024-04-27
+001aj00000EQt0yAAD,Dickenson plc,Product Refresh,006aj0000022Q6PAAU,Perception Analysis,40000,Evaluation of customer feedback for updates,60000,Pipeline,Partner Referral,50,Existing Customer - Replacement,2024-04-28
+001aj00000EQt0zAAD,Grand Hotels & Resorts Ltd,Project X,006aj0000022Q6QAAU,Negotiation/Review,70000,Final negotiation phase for large project,90000,Best Case,Purchased List,75,New Customer,2024-04-29
+001aj00000EQt10AAD,United Oil & Gas Corp.,Service Expansion,006aj0000022Q6RAAU,Value Proposition,25000,Proposal for expanding service offerings,35000,Pipeline,Partner Referral,65,Existing Customer - Upgrade,2024-04-30
+001aj00000EQt11AAD,Express Logistics and Transport,New Product Launch,006aj0000022Q6SAAU,Qualification,60000,Launch event planning and marketing,100000,Best Case,Web,80,New Customer,2024-05-01
+001aj00000EQt12AAD,University of Arizona,Project Z,006aj0000022Q6TAAU,Proposal/Price Quote,45000,Custom software development project,60000,Best Case,Partner Referral,70,New Customer,2024-05-02
+001aj00000EQt13AAD,"United Oil & Gas, UK",Solution Upgrade,006aj0000022Q6UAAU,Negotiation/Review,55000,Negotiation for upgrade of software solution,70000,Best Case,Partner Referral,75,Existing Customer - Upgrade,2024-05-03
+001aj00000EQt14AAD,"United Oil & Gas, Singapore",Expansion Strategy,006aj0000022Q6VAAU,Proposal/Price Quote,35000,Proposal for market expansion strategy,50000,Pipeline,Web,60,New Customer,2024-05-04
+001aj00000EQt15AAD,GenePoint,Client Onboarding,006aj0000022Q6WAAU,Closed Won,20000,Onboarding services for new client,20000,Commit,Phone Inquiry,100,Existing Customer - Upgrade,2024-05-05
+001aj00000EQt0vAAD,Edge Communications,Project Alpha,006aj0000022Q6XAAU,Proposal/Price Quote,65000,Proposal for custom software development,80000,Pipeline,Partner Referral,60,New Customer,2024-05-06
+001aj00000EQt0wAAD,Burlington Textiles Corp of America,Service Enhancement,006aj0000022Q6YAAU,Value Proposition,30000,Proposal for enhancing existing service,40000,Pipeline,Partner Referral,65,Existing Customer - Upgrade,2024-05-07
+001aj00000EQt0xAAD,Pyramid Construction Inc.,Market Research,006aj0000022Q6ZAAU,Needs Analysis,40000,Market research study for new product line,70000,Best Case,Web,75,New Customer,2024-05-08
+001aj00000EQt0yAAD,Dickenson plc,Project Beta,006aj0000022Q6aAAE,Negotiation/Review,55000,Negotiation phase for project implementation,70000,Best Case,Partner Referral,70,Existing Customer - Upgrade,2024-05-09
+001aj00000EQt0zAAD,Grand Hotels & Resorts Ltd,Product Launch,006aj0000022Q6bAAE,Proposal/Price Quote,50000,Launch event planning and marketing,80000,Pipeline,Web,70,New Customer,2024-05-10
+001aj00000EQt10AAD,United Oil & Gas Corp.,Service Upgrade,006aj0000022Q6cAAE,Negotiation/Review,40000,Negotiation for upgrade of service offering,50000,Pipeline,Partner Referral,60,Existing Customer - Upgrade,2024-05-11
+001aj00000EQt11AAD,Express Logistics and Transport,Project Gamma,006aj0000022Q6dAAE,Negotiation/Review,70000,Final negotiation phase for large project,90000,Best Case,Partner Referral,75,New Customer,2024-05-12
+001aj00000EQt12AAD,University of Arizona,Client Expansion,006aj0000022Q6eAAE,Proposal/Price Quote,35000,Proposal for expanding client base,50000,Pipeline,Web,65,New Customer,2024-05-13
+001aj00000EQt13AAD,"United Oil & Gas, UK",Project Delta,006aj0000022Q6fAAE,Negotiation/Review,60000,Negotiation phase for project implementation,80000,Best Case,Partner Referral,70,Existing Customer - Upgrade,2024-05-14
